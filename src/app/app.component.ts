@@ -24,7 +24,7 @@ export class AppComponent {
 
     config_temp.name = "VANDERLEI S. OLIVEIRA";
     config_temp.profession = "Engenheiro de Software";
-    config_temp.path_photo = "../assets/images/fotovand.jpeg";
+    config_temp.path_photo = "./assets/images/fotovand.jpeg";
 
     return config_temp;
 
