@@ -1,0 +1,17 @@
+[
+  {
+  "temp": "VANDERLEI S. OLIVEIRA",
+  "Brasil":{
+    "name": "VANDERLEI S. OLIVEIRA",
+    "profession": "Engenheiro de Software",
+    "path_photo": "./assets/images/fotovand.jpeg"
+  },
+  "English":{
+    "name": "VANDERLEI S. OLIVEIRA",
+    "profession": "Software Engineer",
+    "path_photo": "./assets/images/fotovand.jpeg"
+  }
+
+
+}
+]
