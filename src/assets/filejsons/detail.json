@@ -1,0 +1,428 @@
+[{
+
+"education_br":{
+  "title":"Formação acadêmica",
+  "items": [
+    {"order":1,"formation":"Contabilidade Técnico", "school":"Escola Antonio dos Santos Neves", "icon_show":"","percent":""},
+    {"order":2,"formation":"Bacharelado em Administração de empresas", "school":"FACEC Faculdade De Ciência e Educação Do Caparaó", "icon_show":"","percent":""},
+    {"order":3,"formation":"Pós graduação: Engenharia de software", "school":"FACEC Faculdade De Ciência e Educação Do Caparaó", "icon_show":"","percent":""}
+  ]
+},
+"education_en":{
+  "title":"Academic education",
+  "items": [
+    {"order":1,"formation":"Contabilidade Técnico", "school":"Escola Antonio dos Santos Neves", "icon_show":"","percent":""},
+    {"order":2,"formation":"Bacharelado em Administração de empresas", "school":"FACEC Faculdade De Ciência e Educação Do Caparaó", "icon_show":"","percent":""},
+    {"order":3,"formation":"Pós graduação: Engenharia de software", "school":"FACEC Faculdade De Ciência e Educação Do Caparaó", "icon_show":"","percent":""}
+  ]
+},
+
+
+"experience_br":{
+  "title":"EXPERIÊNCIA",
+  "items": [
+    {"order":7,
+      "show":"True",
+      "page":1,
+      "date_start":"02/2020 até ",
+      "date_end":" momento. ",
+      "company":"C&A - E-Deploy, São Paulo - Brasil",
+      "position":"Engenheiro de software-Java Senior",
+      "items_func":[
+        {"order":1,"occupation":"Manutenção de sistemas legados;"},
+        {"order":2,"occupation":"Projetos web;"},
+        {"order":3,"occupation":"Projetos Desktop;"},
+        {"order":4,"occupation":"Projetos Totem;"},
+        {"order":5,"occupation":"Microservicos;"},
+        {"order":6,"occupation":"Webservice;"}
+      ]
+    },
+    {"order":6,
+      "show":"True",
+      "page":1,
+      "date_start":"08/2019",
+      "date_end":" até 02/2020",
+      "company":"Santander Brasil - Sinqia, São Paulo - Brasil","position":"Analista Desenvolvedor Java Senior",
+      "items_func":[
+        {"order":1,"occupation":"Manutenção de sistemas legados;"},
+        {"order":2,"occupation":"Desenvolvimento de novos projetos;"},
+        {"order":3,"occupation":"Manutenção e melhoria em microservicos existentes;"},
+        {"order":4,"occupation":"Criação de novos microservicos;"},
+        {"order":5,"occupation":"Webservice;"}
+      ]
+    },
+    {"order":5,
+      "show":"True",
+      "page":1,
+      "date_start":"03/2019",
+      "date_end":" até 08/2019",
+      "company":"WebSalt, Serra e Região, Brasil - Brasil","position":"Engenheiro de software",
+      "items_func":[
+        {"order":1,"occupation":"Análise e desenvolvimento;"},
+        {"order":2,"occupation":"Desenvolvimento de Webservice;"},
+        {"order":3,"occupation":"Web - Dashboard feito para controle de metas, vendas e produção (usando smart tv para exibir);"},
+        {"order":4,"occupation":"App - Aplicativo;"},
+        {"order":5,"occupation":"Microserviços."},
+        {"order":6,"occupation":"Criação de WebPage - Intranet empresarial;"},
+        {"order":7,"occupation":"Mysql, SQLSERVER e Oracle - Database modelagem;"}
+      ]
+    },
+    {"order":4,
+      "show":"True",
+      "page":2,
+      "date_start":"05/2017",
+      "date_end":" até 03/2019",
+      "company":"Viminas Vidros Especiais, Espirito Santo - Brasil","position":"Analista e Desenvolvedor - Senior",
+      "items_func":[
+        {"order":1,"occupation":"ERP - Manutenção e implementação de novas regras de negócio;"},
+        {"order":2,"occupation":"ERP - Desenvolvimento de relatórios, regra de negócio e importador, Webservice;"},
+        {"order":3,"occupation":"Web - Desenvolvimento de Sistema de Manutenção Preventiva(abertura de ordem de serviço, controle de manutenção, controle de equipes etc...);"},
+        {"order":4,"occupation":"Análise e desenvolvimento;"},
+        {"order":5,"occupation":"Desenvolvimento de Webservice;"},
+        {"order":6,"occupation":"Web - Dashboard feito para controle de metas, vendas e produção (usando smart tv para exibir);"},
+        {"order":7,"occupation":"App - Aplicativo para controle de acesso a empresa (catraca e portão automático);"},
+        {"order":8,"occupation":"App - Aplicativo para vendedores poderem acompanhar metas,vendas, listagem de clientes e mapa para facilitar encontrar endereço;"},
+        {"order":9,"occupation":"Sistemas para controle de contratos e atendimentos."},
+        {"order":10,"occupation":"Criação de WebPage - Intranet empresarial;"},
+        {"order":11,"occupation":"Mysql, SqlServer e Oracle - Database modelagem;"}
+      ]
+    },
+    {"order":3,
+      "show":"True",
+      "page":2,
+      "date_start":"07/2015",
+      "date_end":" até 05/2017",
+      "company":"RDG Aços do Brasil, Espirito Santo - Brasil.","position":"Desenvolvedor - Senior",
+      "items_func":[
+        {"order":1,"occupation":"ERP Totv - Manutenção e implementação de novas regras de negócio;"},
+        {"order":2,"occupation":"Controle de Frotas - Veiculus, Funcionarios, Notas Fiscais e Financeiro;"},
+        {"order":3,"occupation":"Sistema de controle de produção, entrada de materiais, produto manufaturado, controle de saida dos produtos e carga e descarga de caminhos na balança;"},
+        {"order":4,"occupation":"Análise e desenvolvimento;"},
+        {"order":5,"occupation":"Webservice;"},
+        {"order":6,"occupation":"Webservice Controle de Pedagio"},
+        {"order":7,"occupation":"Webservice Pagamento de Cartão Braspag;"},
+        {"order":8,"occupation":"Microterminal;"},
+        {"order":9,"occupation":"Database modelagem."}
+      ]
+    },
+    {"order":2,
+      "show":"True",
+      "page":3,
+      "date_start":"05/2013",
+      "date_end":" até 06/2015",
+      "company":"Viminas Especial Vidro, Espirito Santo - Brasil","position":"Desenvolvedor - Senior",
+      "items_func":[
+        {"order":1,"occupation":"ERP - Manutenção e implementação de novas regras de negócio;"},
+        {"order":2,"occupation":"ERP - Desenvolvimento de relatórios, regra de negócio e importador, Webservice;"},
+        {"order":3,"occupation":"Criação de sistema de desenho em Java de 2D;"},
+        {"order":4,"occupation":"Virada de versão no projeto Delphi e alteração de banco de dados de Firebird para Oracle;"},
+        {"order":5,"occupation":"Criação de projetos Java 'Gerenciador de Relatórios Dinâmicos' (e outra plataforma web);"},
+        {"order":6,"occupation":"Criação de sistema de relatórios dinâmicas onde o usuário cria o SQL e o sistema gera a tela filtro dinamicamente e monta o arquivo a ser exportado;"},
+        {"order":7,"occupation":"ERP - Sênior – Criar relatórios e acertos em relatórios existentes, tenho a experiência de criar telas e regras, trabalhei nos ajustes e acertos nos processos usando o próprio sistema para fazer estes ajustes;"},
+        {"order":8,"occupation":"Trabalhei em melhorias no sistema existente (controle de clientes, pedidos, produção, etc...), integração entre o sistema da empresa com o Sênior (Webservice);"},
+        {"order":9,"occupation":"Análise e desenvolvimento. Acompanhamento dos processos executados na empresa;"}
+      ]
+    },
+    {"order":1,
+      "show":"True",
+      "page":3,
+      "date_start":"01/2007",
+      "date_end":" até 05/2013",
+      "company":"WebSalt - Soluções, Espirito Santo - Brasil","position":"Desenvolvedor - Senior",
+      "items_func":[
+        {"order":1,"occupation":"Sistema de Controle Sindical;"},
+        {"order":2,"occupation":"Sistema de Controle Escolar;"},
+        {"order":3,"occupation":"WebPage, com administrador para entrar com publicações , fotos e conteudo da webpage;"},
+        {"order":4,"occupation":"Desenvolvimento de sistema exportação e importação de dados dinâmicos a partir de (* csv, xml, txt.);"},
+        {"order":5,"occupation":"Webservice;"},
+        {"order":6,"occupation":"Oracle,Sql Server e Mysql - Database modelagem;"},
+        {"order":7,"occupation":"Assessoria em todos os projetos que envolvem análise e desenvolvimento de software de Gestão Sindical;</"},
+        {"order":8,"occupation":"Software de gestão de lojas;"},
+        {"order":9,"occupation":"Java - Software de Segurança Privada;"},
+        {"order":10,"occupation":"Nota Fiscal Eletrônica (com/sem  Componente ACBR)."}
+      ]
+    }
+
+
+
+
+
+
+
+  ]
+},
+
+"experience_en":{
+  "title":"EXPERIENCE",
+  "items": [
+    {"order":7,
+      "show":"True",
+      "page":1,
+      "date_start":"02/2020 at .",
+      "date_end":" the moment ",
+      "company":"C&A - E-Deploy, São Paulo - Brasil",
+      "position":"Software Engineer - Senior Java",
+      "items_func":[
+        {"order":1,"occupation":"Maintenance of legacy systems;"},
+        {"order":2,"occupation":"Web Projects;"},
+        {"order":3,"occupation":"Desktop Projects;"},
+        {"order":4,"occupation":"Projects Totem;"},
+        {"order":5,"occupation":"Microservices;"},
+        {"order":6,"occupation":"Webservice;"}
+      ]
+    },
+    {"order":6,
+      "show":"True",
+      "page":1,
+      "date_start":"08/2019",
+      "date_end":"02/2020",
+      "company":"Santander Brasil - Sinqia, São Paulo - Brasil",
+      "position":"Senior Java Developer Analyst",
+      "items_func":[
+        {"order":1,"occupation":"Maintenance of legacy systems;"},
+        {"order":2,"occupation":"Development of new projects;"},
+        {"order":3,"occupation":"Maintenance and improvement of existing microservices;"},
+        {"order":4,"occupation":"Creation of new microservices;"},
+        {"order":5,"occupation":"Webservice;"}
+      ]
+    },
+    {"order":5,
+      "show":"True",
+      "page":1,
+      "date_start":"03/2019",
+      "date_end":"08/2019",
+      "company":"WebSalt, Serra e Região, Brasil - Brasil",
+      "position":"Software engineer",
+      "items_func":[
+        {"order":1,"occupation":"Analysis and development;"},
+        {"order":2,"occupation":"Webservice development;"},
+        {"order":3,"occupation":"Web - Dashboard made to control goals, sales and production (using smart tv to display);"},
+        {"order":4,"occupation":"App - Application;"},
+        {"order":5,"occupation":"Microserviços."},
+        {"order":6,"occupation":"WebPage Creation - Business Intranet;"},
+        {"order":7,"occupation":"Mysql, SqlService e Oracle - Database modeling;"}
+      ]
+    },
+    {"order":4,
+      "show":"True",
+      "page":2,
+      "date_start":"05/2017",
+      "date_end":"03/2019",
+      "company":"Viminas Vidros Especiais, Espirito Santo - Brasil",
+      "position":"Analyst and Developer - Senior",
+      "items_func":[
+        {"order":1,"occupation":"ERP - Maintenance and implementation of new business rules;"},
+        {"order":2,"occupation":"ERP - Development of reports, business rule and importer, Webservice;"},
+        {"order":3,"occupation":"Web - Development of Preventive Maintenance System (opening of work order, maintenance control, team control, etc...);"},
+        {"order":4,"occupation":"Analysis and development;"},
+        {"order":5,"occupation":"Webservice development;"},
+        {"order":6,"occupation":"Web - Dashboard made to control goals, sales and production (using smart tv to display);"},
+        {"order":7,"occupation":"App - Application for company access control (turnstile and automatic gate);"},
+        {"order":8,"occupation":"App - Application for sellers to track goals, sales, customer list and map to facilitate finding address;"},
+        {"order":9,"occupation":"Systems to control contracts and services."},
+        {"order":10,"occupation":"Creation of WebPage - Business Intranet;"},
+        {"order":11,"occupation":"Mysql, SqlService e Oracle - Database modeling;"}
+      ]
+    },
+    {"order":3,
+      "show":"True",
+      "page":2,
+      "date_start":"07/2015",
+      "date_end":"05/2017",
+      "company":"RDG Aços do Brasil, Espirito Santo - Brasil.",
+      "position":"Developer - Senior",
+      "items_func":[
+        {"order":1,"occupation":"ERP Totv - Maintenance and implementation of new business rules;"},
+        {"order":2,"occupation":"Fleet Control - Vehicles, Employees, Invoices and Financial;"},
+        {"order":3,"occupation":"Production control system, input of materials, manufactured product, control of output of products and loading and unloading paths on the scale;"},
+        {"order":4,"occupation":"Analysis and development;"},
+        {"order":5,"occupation":"Webservice;"},
+        {"order":6,"occupation":"Webservice Toll Control"},
+        {"order":7,"occupation":"Webservice Braspag Card Payment;"},
+        {"order":8,"occupation":"Microterminal;"},
+        {"order":9,"occupation":"Database modeling."}
+      ]
+    },
+    {"order":2,
+      "show":"True",
+      "page":3,
+      "date_start":"05/2013",
+      "date_end":"06/2015",
+      "company":"Viminas Especial Vidro, Espirito Santo - Brasil",
+      "position":"Developer - Senior",
+      "items_func":[
+        {"order":1,"occupation":"ERP - Maintenance and implementation of new business rules;"},
+        {"order":2,"occupation":"ERP - Development of reports, business rule and importer, Webservice;"},
+        {"order":3,"occupation":"Creation of 2D drawing system in Java;"},
+        {"order":4,"occupation":"Version change in the Delphi project and database change from Firebird to Oracle;"},
+        {"order":5,"occupation":"Creation of 'Dynamic Reports Manager' Java projects (and other web platform);"},
+        {"order":6,"occupation":"Creation of dynamic reporting system where the user creates the SQL and the system generates the filter screen dynamically and assembles the file to be exported;"},
+        {"order":7,"occupation":"ERP - Senior – Create reports and adjustments to existing reports, I have the experience of creating screens and rules, I worked on adjustments and adjustments in the processes using the system itself to make these adjustments;"},
+        {"order":8,"occupation":"I worked on improvements in the existing system (customer control, orders, production, etc...), integration between the company's system with the Senior (Webservice);"},
+        {"order":9,"occupation":"Analysis and development. Monitoring of processes performed in the company;"}
+      ]
+    },
+    {"order":1,
+      "show":"True",
+      "page":3,
+      "date_start":"01/2007",
+      "date_end":"05/2013",
+      "company":"WebSalt - Soluções, Espirito Santo - Brasil",
+      "position":"Developer - Senior",
+      "items_func":[
+        {"order":1,"occupation":"Union Control System;"},
+        {"order":2,"occupation":"School Control System;"},
+        {"order":3,"occupation":"WebPage with administrator to enter publications, photos and webpage content;"},
+        {"order":4,"occupation":"Development of dynamic data export and import system from (* csv, xml, txt.);"},
+        {"order":5,"occupation":"Webservice;"},
+        {"order":6,"occupation":"Oracle,Sql Server e Mysql - Database modeling;"},
+        {"order":7,"occupation":"Assistance in all projects involving analysis and development of Union Management software;"},
+        {"order":8,"occupation":"store management software;"},
+        {"order":9,"occupation":"Java - Private Security Software;"},
+        {"order":10,"occupation":"Electronic Invoice (with/without ACBR Component)."}
+      ]
+    }
+
+
+
+  ]
+},
+
+"success_case_br":{
+  "title":"CASSO DE SUCESSO",
+  "show":"YES",
+  "items":[
+    {"title":"JAVA",
+      "text":"Exemplos de sistemas feito em Java.",
+      "show":"YES",
+      "page":2,
+      "path_img":"./assets/images/java-logo.jpg",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"ANGULAR",
+      "show":"YES",
+      "text":"Exemplos de sistemas feito em Angular.",
+      "page":2,
+      "path_img":"./assets/images/angula_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"REACT",
+      "show":"YES",
+      "text":"Exemplos de sistemas feito em React.",
+      "page":3,
+      "path_img":"./assets/images/react_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":4,"show":"YES","text":"Exemplo 04", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"C#",
+      "show":"YES",
+      "text":"Exemplos de sistemas feito em c#.",
+      "page":3,
+      "path_img":"./assets/images/csharp_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":4,"show":"YES","text":"Exemplo 04", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"PHP",
+      "text":"Exemplos de sistemas feito em php.",
+      "show":"YES",
+      "page":3,
+      "path_img":"./assets/images/php_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":4,"show":"YES","text":"Exemplo 04", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    }
+
+
+  ]
+},
+"success_case_en":{
+  "title":"SUCCESS CASE",
+  "show":"YES",
+  "items":[
+    {"title":"JAVA",
+      "text":"Examples of systems made in Java.",
+      "show":"YES",
+      "page":1,
+      "path_img":"./assets/images/java-logo.jpg",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemple 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"ANGULAR",
+      "show":"YES",
+      "text":"Examples of systems made in Angular.",
+      "page":1,
+      "path_img":"./assets/images/angula_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemple 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"REACT",
+      "show":"YES",
+      "text":"Examples of systems made in React.",
+      "page":2,
+      "path_img":"./assets/images/react_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemple 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":4,"show":"YES","text":"Exemple 04", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"C#",
+      "show":"YES",
+      "text":"Examples of systems made in c#.",
+      "page":2,
+      "path_img":"./assets/images/csharp_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemple 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":4,"show":"YES","text":"Exemple 04", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    },
+    {"title":"PHP",
+      "text":"Examples of systems made in php.",
+      "show":"YES",
+      "page":2,
+      "path_img":"./assets/images/php_logo.png",
+      "items":[
+        {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":3,"show":"YES","text":"Exemple 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":4,"show":"YES","text":"Exemple 04", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+      ]
+    }
+
+
+  ]
+}
+
+
+
+
+
+}]

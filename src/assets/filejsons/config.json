@@ -1,0 +1,131 @@
+[
+  {
+  "hobbies": "play games;play fotbool",
+  "Brasil":{
+    "name": "VANDERLEI S. OLIVEIRA",
+    "profession": "Engenheiro de Software",
+    "path_photo": "./assets/images/fotovand.jpeg",
+    "title": "O que eu penso",
+    "title2": "Pense nisso...",
+    "title3": "",
+    "text_think1":"Eu sou um profissional (Desenvolvedor e Analista) bastante otimista que gosto muito de interagir com outras pessoas. Trabalhar em equipe em busca dos melhores resultados e alcançar objetivos diários é o que me traz grande motivação e satisfação.  Com uma experiência ao longo de 15 anos como Desenvolvedor e Analista em projetos:  C# Asp.net (MVC), Java (MVC), AngularJS, Angular-CLI-Node, JavaScript, JQuery, Bootstrap e Delphi.",
+    "text_think2":" Habilidade é o que você é capaz de fazer.  Motivação determina o que você faz. Atitude determina a qualidade do que você faz.",
+    "text_think3":"Com dedicação, motivação, visão, talento, diálogo e trabalho em equipe podemos transformar o trabalho, a empresa, a comunidade e contribuimos para uma sociedade melhor e mais justa."
+  },
+  "English":{
+    "name": "VANDERLEI S. OLIVEIRA",
+    "profession": "Software Engineer",
+    "path_photo": "./assets/images/fotovand.jpeg",
+    "title": "What I think",
+    "title2": "Think about it...",
+    "title3": "",
+    "text_think1":"I am a very optimistic professional (Developer and Analyst) who really enjoy interacting with other people. Working as a team in search of the best results and achieving daily goals is what brings me great motivation and satisfaction. With 15 years of experience as a Developer and Project Analyst: Java Spring boot - MVC, Angular, React, JavaScript, JQuery, Bootstrap, PHP, C # Asp.net (MVC).",
+    "text_think2":"Ability is what you are able to do. Motivation determines what you do. Attitude determines the quality of what you do.",
+    "text_think3":"With dedication, motivation, vision, talent, dialogue and teamwork we can transform work, the company, the community and contribute to a better and more just society."
+  },
+  "Contact_br":{
+    "title":"CONTATO",
+    "items": [
+      {"order":1,"text":"+00 (00) 0000 0000", "icon_show":"glyphicon glyphicon-earphone","percent":""},
+      {"order":2,"text":"sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
+      {"order":3,"text":"skype:sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
+      {"order":4,"text":"Vila Emir- São Paulo - Brasil", "icon_show":"glyphicon glyphicon-map-marker","percent":""}
+    ]
+  },
+  "Contact_en":{
+    "title":"CONTACT",
+    "items": [
+      {"order":1,"text":"+00 (00) 0000 0000", "icon_show":"glyphicon glyphicon-earphone","percent":""},
+      {"order":2,"text":"sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
+      {"order":3,"text":"skype:sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
+      {"order":4,"text":"Vila Emir- São Paulo - Brasil", "icon_show":"glyphicon glyphicon-map-marker","percent":""}
+    ]
+  },
+  "skills_br":{
+    "title":"TALENTOS",
+    "items": [
+      {"order":1,"text":"Trabalho em equipe", "icon_show":"glyphicon glyphicon-thumbs-up","percent":"100"},
+      {"order":2,"text":"Criatividade", "icon_show":"glyphicon glyphicon-thumbs-up","percent":"100"},
+      {"order":3,"text":"Inovação", "icon_show":"glyphicon glyphicon-thumbs-up","percent":"100"},
+      {"order":4,"text":"Comunicação", "icon_show":"glyphicon glyphicon-thumbs-up","percent":"100"},
+      {"order":5,"text":"Apresentação", "icon_show":"glyphicon glyphicon-thumbs-up","percent":"100"},
+      {"order":6,"text":"Motivação", "icon_show":"glyphicon glyphicon-thumbs-up","percent":"100"}
+    ]
+  },
+  "skills_en":{
+    "title":"SKILLS",
+    "items": [
+      {"order":1,"text":"Teamwork", "icon_show":"","percent":"100"},
+      {"order":2,"text":"Creativity", "icon_show":"","percent":"100"},
+      {"order":3,"text":"Innovation", "icon_show":"","percent":"100"},
+      {"order":4,"text":"Communication", "icon_show":"","percent":"100"},
+      {"order":5,"text":"Presentation", "icon_show":"","percent":"100"},
+      {"order":6,"text":"Motivation", "icon_show":"","percent":"100"}
+    ]
+  },
+
+  "software_br":{
+    "title":"SOFTWARE",
+    "items": [
+      {"order":1,"text":"Java(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":2,"text":"Spring Boot/MVC", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":3,"text":"JPA-Hibernate-JSP-JSF", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":4,"text":"Webservices-SOAP", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":5,"text":"Webservices-Rest", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":6,"text":"Webservices-RestFull", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":7,"text":"Microsserviços", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":8,"text":"JUnit", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":9,"text":"Angular", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":10,"text":"React", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":11,"text":"JavaStript-Jquery", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":12,"text":"C#(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":13,"text":"PHP(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":14,"text":"Git-GitHub-Bitbucket", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":15,"text":"Jenkins / Docker", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":16,"text":"Microsoft Azure", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":17,"text":"AWS-Amazon Web Services", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":18,"text":"Pytho", "icon_show":"glyphicon glyphicon-check","percent":""}
+    ]
+  },
+  "software_en":{
+    "title":"SOFTWARE",
+    "items": [
+      {"order":1,"text":"Java(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":2,"text":"Spring Boot/MVC", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":3,"text":"JPA-Hibernate-JSP-JSF", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":4,"text":"Webservices-SOAP", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":5,"text":"Webservices-Rest", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":6,"text":"Webservices-RestFull", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":7,"text":"Microsserviços", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":8,"text":"JUnit", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":9,"text":"Angular", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":10,"text":"React", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":11,"text":"JavaStript-Jquery", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":12,"text":"C#(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":13,"text":"PHP(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":14,"text":"Git-GitHub-Bitbucket", "icon_show":"","percent":""},
+      {"order":15,"text":"Jenkins / Docker", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":16,"text":"Microsoft Azure", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":17,"text":"AWS-Amazon Web Services", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":18,"text":"Pytho", "icon_show":"glyphicon glyphicon-check","percent":""}
+    ]
+  },
+
+  "language_br":{
+    "title":"IDIOMAS",
+    "items": [
+      {"order":1,"text":"Português", "icon_show":"glyphicon glyphicon-volume-up","percent":""},
+      {"order":1,"text":"Ingles", "icon_show":"glyphicon glyphicon-volume-up","percent":""}
+    ]
+  },
+  "language_en":{
+    "title":"LANGUAGE",
+    "items": [
+      {"order":1,"text":"Português", "icon_show":"glyphicon glyphicon-volume-up","percent":""},
+      {"order":1,"text":"Ingles", "icon_show":"glyphicon glyphicon-volume-up","percent":""}
+    ]
+  }
+
+
+}
+]
