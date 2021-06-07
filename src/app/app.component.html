@@ -1,59 +1,4 @@
 
-<style>
-  body {
-  /*background: rgb(204, 204, 204); */
-  font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif;
-  font-size: 13px;
-  background: #3a6682;
-}
-.page {
-  background: white;
-  display: block;
-  margin: 0 auto;
-  margin-bottom: 0.5cm;
-  box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
-
-}
-.page.landscape {
-  width: 21cm;
-  height: 29.7cm;
-}
-.page.portrait {
-  width: 29.7cm;
-  height: 21cm;
-}
-@media print {
-  body,
-  .page {
-    margin: 0;
-    box-shadow: 0;
-  }
-}
-.col_left {
-  height: 29.7cm;
-  background-color:#152535;
-  font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif;
-  font-size: 12px;
-  color:white;
-}
-.col_right {
-  height: 29.7cm;
-  background-color:#e2e2e4;
-}
-.col_left_line_center{
-  margin:2px;
-  text-align:center;
-  align-items:center;
-
-}
-.col_left_line_left{
-  margin:2px;
-  text-align:left;
-  align-items:top;
-
-}
-</style>
-
 <div class="page landscape">
 
 <div class="container">
@@ -69,19 +14,95 @@
             <label>{{ config.profession }}</label>
           </div>
         </div>
-        <div class="row">
-          <div class="col col_left_line_left"  ><span> </span></div>
+        <div class="row" style="padding:3px;" >
+          <div class="col-1"  >
+            <a title="Portuguese(Brasil)" (click)="translate('BR')" href="#"><img alt="port" src="../assets/images/brazil_flags_flag_16979.png" style="height:20px;width:20px;"></a>
+          </div>
+          <div class="col-1"  >
+            <a title="Ingles" (click)="translate('EN')" href="#"><img alt="ingles" src="../assets/images/united_kingdom_flags_flag_17079.png" style="height:20px;width:20px;"></a>
+          </div>
+         </div>
+        <div class="alert alert-success" role="alert">
+          <h4 class="alert-heading">{{config.title}}!</h4>
+          <p>
+            {{config.text_think2}}
+          </p>
+          <hr>
+          <p class="mb-0">{{config.title2}}</p>
         </div>
+
         <div class="row">
-          <div class="col col_left_line_left"  >Coluna</div>
+          <div class="col col_left_line_left"  >
+            <span class="left_title" >{{config.Contact_title}} </span>
+            <ul class="list-group" *ngFor="let item of config.Contact_items">
+              <li class="list-group-item">
+                <span class="{{item.icon_show}}" aria-hidden="true"></span>
+                <span>  {{item.text}}</span></li>
+            </ul>
+          </div>
         </div>
+
         <div class="row">
-          <div class="col col_left_line_left"  >Coluna</div>
+          <div class="col col_left_line_left"  >
+            <span class="left_title" >{{config.software_title}} </span>
+            <ul class="list-group" *ngFor="let item of config.software_items">
+              <li class="list-group-item">
+                <span class="{{item.icon_show}}" aria-hidden="true"></span>
+                <span>  {{item.text}}</span></li>
+            </ul>
+          </div>
         </div>
+
+    </div>
+    <div class="col-8 col_right" >
+
+      <div class="row" style="background-color: #14a2ba;height:135px;color: white;padding-top:10px;" >
+        <div class="row">
+          <h1><strong>{{ config.name }}</strong></h1>
+          <h3>{{ config.profession }}</h3>
+          <p style="font-size:x-small;"  >
+            {{config.text_think1}}
+          </p>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="container" style="margin-top:10px;margin-bottom:12px;" >
+        <div class="card shadow-sm  " >
+          <h3 class="card-header">{{detail.Education_title}}</h3>
+          <div class="card-body" *ngFor="let item of detail.Education_items" >
+            <h3 class="card-title">{{item.formation}}</h3>
+            <p class="card-text">{{item.school}}</p>
+
+          </div>
+        </div>
+      </div>
+
+      </div>
+      <div class="row">
+        <div class="container">
+          <ul class="timeline"  *ngFor="let item of detail.Detail_items"  >
+              <li  *ngIf="item.page == 1  &&  item.show == 'True'  ">
+                <div class="timeline-badge info"><i class="glyphicon glyphicon-ok-sign"></i></div>
+                <div class="timeline-panel" >
+                  <div class="timeline-heading">
+                    <h4 class="timeline-title">{{item.company}}</h4>
+                    <h5 class="timeline-title">{{item.position}}</h5>
+                    <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> {{item.date_start}}  {{item.date_end}} </small></p>
+                  </div>
+                  <div class="timeline-body">
+                    <ul   *ngFor="let item_temp of item.items_func">
+                      <li>{{item_temp.occupation}}</li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+          </ul>
+        </div>
+      </div>
 
 
     </div>
-    <div class="col-8 col_right" >col-8vv</div>
   </div>
 </div>
 
@@ -90,8 +111,206 @@
 <div class="page landscape"  >
   <div class="container">
     <div class="row">
-      <div class="col-4 col_left"  >col-4vvv</div>
-      <div class="col-8 col_right" >col-8vv</div>
+      <div class="col-4 col_left"  >
+        <br>
+        <div class="alert alert-success" role="alert">
+          <h4 class="alert-heading">{{config.title}}!</h4>
+          <p>
+            {{config.text_think3}}
+          </p>
+          <hr>
+          <p class="mb-0">{{config.title2}}</p>
+        </div>
+
+        <div class="row">
+          <div class="col col_left_line_left"  >
+            <span class="left_title" >{{config.skills_title}} </span>
+            <ul class="list-group" *ngFor="let item of config.skills_items">
+              <li class="list-group-item">
+
+                <div class="row">
+                  <div class="col-7">
+                    <span class="{{item.icon_show}}" aria-hidden="true"></span>
+                    <span>  {{item.text}}</span>
+                  </div>
+                  <div class="col-4">
+                    <div class="progress" style="height:10px;padding:0px;margin:0px;margin-top:3px;">
+                      <div class="progress-bar" style="width:{{item.percent}}%;height:10px"></div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row">
+          <span class="left_title" >{{config.language_title}} </span>
+          <div class="col col_left_line_left" style="height:100px;text-align: center;"  >
+
+            <circle-progress
+              [percent]="100"
+              [radius]="38"
+              [outerStrokeWidth]="5"
+              [innerStrokeWidth]="2"
+              [outerStrokeColor]="'#78C000'"
+              [innerStrokeColor]="'#C7E596'"
+              [animation]="true"
+              [animationDuration]="300"
+            ></circle-progress>
+            <label>Português</label>
+
+          </div>
+          <div class="col col_left_line_left" style="height:100px;text-align: center;"  >
+
+            <circle-progress
+              [percent]="40"
+              [radius]="38"
+              [outerStrokeWidth]="5"
+              [innerStrokeWidth]="2"
+              [outerStrokeColor]="'#78C000'"
+              [innerStrokeColor]="'#C7E596'"
+              [animation]="true"
+              [animationDuration]="300"
+            ></circle-progress>
+            <label>Ingles</label>
+
+          </div>
+        </div>
+
+        <br>
+        <div class="row">
+            <div  *ngFor="let item of detail.Success_case_items"  >
+              <div *ngIf="item.page == 2  &&  item.show == 'YES'  " class="card" style="padding:3px; margin:5px; width: 95%;">
+                <img class="card-img-top" src="{{item.path_img}}" alt="Imagem de capa do card">
+                <div class="card-body" style="color:black;" >
+                  <h5 class="card-title">{{item.title}}</h5>
+                  <p class="card-text">{{item.text}}</p>
+                </div>
+                <ul   *ngFor="let item_temp of item.items" class="list-group list-group-flush">
+                  <li *ngIf="item_temp.show == 'YES'  " class="list-group-item">
+                    <a href="{{item_temp.link}}" class="card-link">{{item_temp.text}}</a>
+                  </li>
+                </ul>
+
+              </div>
+            </div>
+      </div>
+
+
+      </div>
+      <div class="col-8 col_right" >
+        <div class="row" style="background-color: #14a2ba;height:135px;color: white;padding-top:10px;" >
+          <div class="row">
+            <h1><strong>{{ config.name }}</strong></h1>
+            <h3>{{ config.profession }}</h3>
+            <p style="font-size:x-small;"  >
+              {{config.text_think1}}
+            </p>
+
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="container">
+            <ul class="timeline"  *ngFor="let item of detail.Detail_items"  >
+                <li  *ngIf="item.page == 2  &&  item.show == 'True'  ">
+                  <div class="timeline-badge info"><i class="glyphicon glyphicon-ok-sign"></i></div>
+                  <div class="timeline-panel" >
+                    <div class="timeline-heading">
+                      <h4 class="timeline-title">{{item.company}}</h4>
+                      <h5 class="timeline-title">{{item.position}}</h5>
+                      <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> {{item.date_start}}  {{item.date_end}} </small></p>
+                    </div>
+                    <div class="timeline-body">
+                      <ul   *ngFor="let item_temp of item.items_func">
+                        <li>{{item_temp.occupation}}</li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+            </ul>
+            <ul class="timeline" style="height: 140px;" ></ul>
+
+
+
+          </div>
+        </div>
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page landscape"  >
+  <div class="container">
+    <div class="row">
+      <div class="col-4 col_left"  >
+        <br>
+        <div class="row">
+            <div  *ngFor="let item of detail.Success_case_items"  >
+              <div *ngIf="item.page == 3  &&  item.show == 'YES'  " class="card" style="padding:3px; margin:5px; width: 95%;">
+                <img class="card-img-top" src="{{item.path_img}}" alt="Imagem de capa do card">
+                <div class="card-body" style="color:black;" >
+                  <h5 class="card-title">{{item.title}}</h5>
+                  <p class="card-text">{{item.text}}</p>
+                </div>
+                <ul   *ngFor="let item_temp of item.items" class="list-group list-group-flush">
+                  <li *ngIf="item_temp.show == 'YES'  " class="list-group-item">
+                    <a href="{{item_temp.link}}" class="card-link">{{item_temp.text}}</a>
+                  </li>
+                </ul>
+
+              </div>
+            </div>
+      </div>
+
+        <div class="row">
+
+        </div>
+
+
+      </div>
+      <div class="col-8 col_right" >
+        <div class="row" style="background-color: #14a2ba;height:135px;color: white;padding-top:10px;" >
+          <div class="row">
+            <h1><strong>{{ config.name }}</strong></h1>
+            <h3>{{ config.profession }}</h3>
+            <p style="font-size:x-small;"  >
+              {{config.text_think1}}
+            </p>
+
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="container">
+            <ul class="timeline"  *ngFor="let item of detail.Detail_items"  >
+                <li  *ngIf="item.page == 3  &&  item.show == 'True'  ">
+                  <div class="timeline-badge info"><i class="glyphicon glyphicon-ok-sign"></i></div>
+                  <div class="timeline-panel" >
+                    <div class="timeline-heading">
+                      <h4 class="timeline-title">{{item.company}}</h4>
+                      <h5 class="timeline-title">{{item.position}}</h5>
+                      <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> {{item.date_start}}  {{item.date_end}} </small></p>
+                    </div>
+                    <div class="timeline-body">
+                      <ul   *ngFor="let item_temp of item.items_func">
+                        <li>{{item_temp.occupation}}</li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+            </ul>
+            <ul class="timeline" style="height: 67px;" ></ul>
+          </div>
+        </div>
+
+      </div>
     </div>
   </div>
 </div>
