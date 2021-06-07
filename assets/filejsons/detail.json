@@ -296,7 +296,7 @@
       "text":"Exemplos de sistemas feito em Java.",
       "show":"YES",
       "page":2,
-      "path_img":"/assets/images/java-logo.jpg",
+      "path_img":"/vandcurriculum/assets/images/java-logo.jpg",
       "items":[
         {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -307,7 +307,7 @@
       "show":"YES",
       "text":"Exemplos de sistemas feito em Angular.",
       "page":2,
-      "path_img":"../assets/images/angula_logo.png",
+      "path_img":"/vandcurriculum/assets/images/angula_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -330,7 +330,7 @@
       "show":"YES",
       "text":"Exemplos de sistemas feito em c#.",
       "page":3,
-      "path_img":"../assets/images/csharp_logo.png",
+      "path_img":"/vandcurriculum/assets/images/csharp_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -342,7 +342,7 @@
       "text":"Exemplos de sistemas feito em php.",
       "show":"YES",
       "page":3,
-      "path_img":"../assets/images/php_logo.png",
+      "path_img":"/vandcurriculum/assets/images/php_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -362,7 +362,7 @@
       "text":"Examples of systems made in Java.",
       "show":"YES",
       "page":1,
-      "path_img":"../assets/images/java-logo.jpg",
+      "path_img":"/vandcurriculum/assets/images/java-logo.jpg",
       "items":[
         {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -373,7 +373,7 @@
       "show":"YES",
       "text":"Examples of systems made in Angular.",
       "page":1,
-      "path_img":"../assets/images/angula_logo.png",
+      "path_img":"/vandcurriculum/assets/images/angula_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -384,7 +384,7 @@
       "show":"YES",
       "text":"Examples of systems made in React.",
       "page":2,
-      "path_img":"../assets/images/react_logo.png",
+      "path_img":"/vandcurriculum/assets/images/react_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -396,7 +396,7 @@
       "show":"YES",
       "text":"Examples of systems made in c#.",
       "page":2,
-      "path_img":"../assets/images/csharp_logo.png",
+      "path_img":"/vandcurriculum/assets/images/csharp_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
@@ -408,7 +408,7 @@
       "text":"Examples of systems made in php.",
       "show":"YES",
       "page":2,
-      "path_img":"../assets/images/php_logo.png",
+      "path_img":"/vandcurriculum/assets/images/php_logo.png",
       "items":[
         {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
