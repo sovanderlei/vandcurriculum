@@ -6,3 +6,4 @@ I am a very optimistic professional (Developer and Analyst) who really enjoy int
 I created this online curriculum so you can demonstrate my programming codes and standards.
 Follow the link to the online curriculum where you have the examples saved in git.
  <a href="https://sovanderlei.github.io/vandcurriculum">Click here</a>
+
