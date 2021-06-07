@@ -296,7 +296,7 @@
       "text":"Exemplos de sistemas feito em Java.",
       "show":"YES",
       "page":2,
-      "path_img":"../assets/images/java-logo.jpg",
+      "path_img":"/assets/images/java-logo.jpg",
       "items":[
         {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
