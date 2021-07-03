@@ -298,7 +298,7 @@
       "page":2,
       "path_img":"./assets/images/java-logo.jpg",
       "items":[
-        {"order":1,"show":"YES","text":"Exemplo 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":1,"show":"YES","text":"Exemplo API REST", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/javastoreback.git"},
         {"order":2,"show":"YES","text":"Exemplo 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
       ]
@@ -364,7 +364,7 @@
       "page":2,
       "path_img":"./assets/images/java-logo.jpg",
       "items":[
-        {"order":1,"show":"YES","text":"Exemple 01", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
+        {"order":1,"show":"YES","text":"Exemplo API REST", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/javastoreback.git"},
         {"order":2,"show":"YES","text":"Exemple 02", "icon_show":"","path_img":"","link":"https://www.google.com.br/"},
         {"order":3,"show":"YES","text":"Exemple 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
       ]
