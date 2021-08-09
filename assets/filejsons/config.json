@@ -26,7 +26,7 @@
   "Contact_br":{
     "title":"CONTATO",
     "items": [
-      {"order":1,"text":"+00 (00) 0000 0000", "icon_show":"glyphicon glyphicon-earphone","percent":""},
+      {"order":1,"text":"+55 (11) 977007376", "icon_show":"glyphicon glyphicon-earphone","percent":""},
       {"order":2,"text":"sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
       {"order":3,"text":"skype:sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
       {"order":4,"text":"Vila Emir- São Paulo - Brasil", "icon_show":"glyphicon glyphicon-map-marker","percent":""}
@@ -35,7 +35,7 @@
   "Contact_en":{
     "title":"CONTACT",
     "items": [
-      {"order":1,"text":"+00 (00) 0000 0000", "icon_show":"glyphicon glyphicon-earphone","percent":""},
+      {"order":1,"text":"+55 (11) 977007376", "icon_show":"glyphicon glyphicon-earphone","percent":""},
       {"order":2,"text":"sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
       {"order":3,"text":"skype:sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
       {"order":4,"text":"Vila Emir- São Paulo - Brasil", "icon_show":"glyphicon glyphicon-map-marker","percent":""}
@@ -69,22 +69,21 @@
     "items": [
       {"order":1,"text":"Java(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
       {"order":2,"text":"Spring Boot/MVC", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":3,"text":"JPA-Hibernate-JSP-JSF", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":4,"text":"Webservices-SOAP", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":5,"text":"Webservices-Rest", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":6,"text":"Webservices-RestFull", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":7,"text":"Microsserviços", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":8,"text":"JUnit", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":9,"text":"Angular", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":10,"text":"React", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":11,"text":"JavaStript-Jquery", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":12,"text":"C#(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":13,"text":"PHP(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":14,"text":"Git-GitHub-Bitbucket", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":15,"text":"Jenkins / Docker", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":16,"text":"Microsoft Azure", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":17,"text":"AWS-Amazon Web Services", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":18,"text":"Pytho", "icon_show":"glyphicon glyphicon-check","percent":""}
+      {"order":3,"text":"Spring Cloud - Eureka", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":4,"text":"JPA-Hibernate-JSP-JSF", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":5,"text":"Webservices-SOAP/Rest/RestFull", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":6,"text":"Microsserviços", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":7,"text":"JUnit", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":8,"text":"Angular", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":9,"text":"React", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":10,"text":"JavaStript-Jquery", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":11,"text":"C#(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":12,"text":"PHP(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":13,"text":"Git-GitHub-Bitbucket", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":14,"text":"Jenkins / Docker", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":15,"text":"Microsoft Azure", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":16,"text":"AWS-Amazon Web Services", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":17,"text":"Pytho", "icon_show":"glyphicon glyphicon-check","percent":""}
     ]
   },
   "software_en":{
@@ -92,22 +91,21 @@
     "items": [
       {"order":1,"text":"Java(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
       {"order":2,"text":"Spring Boot/MVC", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":3,"text":"JPA-Hibernate-JSP-JSF", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":4,"text":"Webservices-SOAP", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":5,"text":"Webservices-Rest", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":6,"text":"Webservices-RestFull", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":7,"text":"Microsserviços", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":8,"text":"JUnit", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":9,"text":"Angular", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":10,"text":"React", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":11,"text":"JavaStript-Jquery", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":12,"text":"C#(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":13,"text":"PHP(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":14,"text":"Git-GitHub-Bitbucket", "icon_show":"","percent":""},
-      {"order":15,"text":"Jenkins / Docker", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":16,"text":"Microsoft Azure", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":17,"text":"AWS-Amazon Web Services", "icon_show":"glyphicon glyphicon-check","percent":""},
-      {"order":18,"text":"Pytho", "icon_show":"glyphicon glyphicon-check","percent":""}
+      {"order":3,"text":"Spring Cloud - Eureka", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":4,"text":"JPA-Hibernate-JSP-JSF", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":5,"text":"Webservices-SOAP/Rest/RestFull", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":6,"text":"Microsserviços", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":7,"text":"JUnit", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":8,"text":"Angular", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":9,"text":"React", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":10,"text":"JavaStript-Jquery", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":11,"text":"C#(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":12,"text":"PHP(MVC)", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":13,"text":"Git-GitHub-Bitbucket", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":14,"text":"Jenkins / Docker", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":15,"text":"Microsoft Azure", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":16,"text":"AWS-Amazon Web Services", "icon_show":"glyphicon glyphicon-check","percent":""},
+      {"order":17,"text":"Pytho", "icon_show":"glyphicon glyphicon-check","percent":""}
     ]
   },
 

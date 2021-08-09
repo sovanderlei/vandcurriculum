@@ -370,7 +370,7 @@
       ]
     },
     {"title":"ANGULAR",
-      "show":"YES",
+      "show":"NO",
       "text":"Examples of systems made in Angular.",
       "page":2,
       "path_img":"./assets/images/angula_logo.png",
@@ -381,7 +381,7 @@
       ]
     },
     {"title":"REACT",
-      "show":"YES",
+      "show":"NO",
       "text":"Examples of systems made in React.",
       "page":3,
       "path_img":"./assets/images/react_logo.png",
@@ -393,7 +393,7 @@
       ]
     },
     {"title":"C#",
-      "show":"YES",
+      "show":"NO",
       "text":"Examples of systems made in c#.",
       "page":3,
       "path_img":"./assets/images/csharp_logo.png",
@@ -406,7 +406,7 @@
     },
     {"title":"PHP",
       "text":"Examples of systems made in php.",
-      "show":"YES",
+      "show":"NO",
       "page":3,
       "path_img":"./assets/images/php_logo.png",
       "items":[
