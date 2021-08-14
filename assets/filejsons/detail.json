@@ -301,7 +301,7 @@
       "items":[
         {"order":1,"show":"YES","text":"Exemplo API REST", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/javastoreback.git"},
         {"order":2,"show":"YES","text":"Exemple Microservices FTP", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/FtpController"},
-        {"order":3,"show":"YES","text":"Exemple Microservices Spring Cloud Eureka", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/microserviceeurekacloud"}
+        {"order":3,"show":"YES","text":"Exemple Micr... Spring Cloud Eureka", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/microserviceeurekacloud"}
       ]
     },
     {"title":"ANGULAR",
