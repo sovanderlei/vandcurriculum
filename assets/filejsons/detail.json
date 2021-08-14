@@ -288,6 +288,7 @@
   ]
 },
 
+
 "success_case_br":{
   "title":"CASSO DE SUCESSO",
   "show":"YES",
@@ -300,7 +301,7 @@
       "items":[
         {"order":1,"show":"YES","text":"Exemplo API REST", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/javastoreback.git"},
         {"order":2,"show":"YES","text":"Exemple Microservices FTP", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/FtpController"},
-        {"order":3,"show":"YES","text":"Exemplo 03", "icon_show":"","path_img":"","link":"https://www.google.com.br/"}
+        {"order":3,"show":"YES","text":"Spring Cloud Eureka", "icon_show":"","path_img":"","link":"https://github.com/sovanderlei/microserviceeurekacloud"}
       ]
     },
     {"title":"ANGULAR",
