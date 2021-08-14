@@ -29,7 +29,7 @@
       {"order":1,"text":"+55 (11) 977007376", "icon_show":"glyphicon glyphicon-earphone","percent":""},
       {"order":2,"text":"sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
       {"order":3,"text":"skype:sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
-      {"order":4,"text":"https://sovanderlei.github.io/vandcurriculum/", "icon_show":"glyphicon glyphicon-globe","percent":""},
+      {"order":4,"text":"https://sovanderlei.github.io/vandcurriculum/", "icon_show":"","percent":""},
       {"order":4,"text":"Vila Emir- São Paulo - Brasil", "icon_show":"glyphicon glyphicon-map-marker","percent":""}
     ]
   },
@@ -39,7 +39,7 @@
       {"order":1,"text":"+55 (11) 977007376", "icon_show":"glyphicon glyphicon-earphone","percent":""},
       {"order":2,"text":"sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
       {"order":3,"text":"skype:sovanderlei@hotmail.com", "icon_show":"glyphicon glyphicon-globe","percent":""},
-      {"order":4,"text":"https://sovanderlei.github.io/vandcurriculum/", "icon_show":"glyphicon glyphicon-globe","percent":""},
+      {"order":4,"text":"https://sovanderlei.github.io/vandcurriculum/", "icon_show":"","percent":""},
       {"order":4,"text":"Vila Emir- São Paulo - Brasil", "icon_show":"glyphicon glyphicon-map-marker","percent":""}
     ]
   },
