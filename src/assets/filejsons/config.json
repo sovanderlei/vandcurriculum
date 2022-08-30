@@ -4,7 +4,7 @@
   "Brasil":{
     "name": "VANDERLEI S. OLIVEIRA",
     "profession": "Engenheiro de Software",
-    "path_photo": "./assets/images/fotovand.jpeg",
+    "path_photo": "./assets/images/fotovand.png",
     "title": "O que eu penso",
     "title2": "Pense nisso...",
     "title3": "",
@@ -15,7 +15,7 @@
   "English":{
     "name": "VANDERLEI S. OLIVEIRA",
     "profession": "Software Engineer",
-    "path_photo": "./assets/images/fotovand.jpeg",
+    "path_photo": "./assets/images/fotovand.png",
     "title": "What I think",
     "title2": "Think about it...",
     "title3": "",
