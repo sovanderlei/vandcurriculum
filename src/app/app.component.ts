@@ -33,6 +33,7 @@ export class AppComponent {
     this.config = this.actualizes_config(value);
     this.detail = this.actualizes_detail(value);
   }
+
   public actualizes_config(language: string){
 
     var config_temp = new Config;
