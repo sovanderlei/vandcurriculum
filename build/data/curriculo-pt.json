@@ -1,0 +1,179 @@
+{
+  "labels": {
+    "contact": "Contato",
+    "skills": "Competências",
+    "education": "Formação",
+    "certifications": "Certificações",
+    "languages": "Idiomas",
+    "summary": "Resumo Profissional",
+    "experience": "Experiência Profissional",
+    "achievements": "Destaques",
+    "references": "Referências",
+    "print": "Imprimir / PDF",
+    "present": "Presente"
+  },
+  "profile": {
+    "firstName": "Vanderlei",
+    "lastName": "Oliveira",
+    "title": "Engenheiro de Software Sênior",
+    "photo": "img/foto.png",
+    "photoPosition": "62% 40%"
+  },
+  "contact": [
+    { "icon": "fas fa-phone", "text": "+55 (27) 99919-7573", "link": "tel:+5527999197573" },
+    { "icon": "fas fa-envelope", "text": "sovanderleidk@gmail.com", "link": "mailto:sovanderleidk@gmail.com" },
+    { "icon": "fas fa-map-marker-alt", "text": "São Paulo, Brasil", "link": "" },
+    { "icon": "fab fa-linkedin-in", "text": "linkedin.com/in/sovanderleidk", "link": "https://www.linkedin.com/in/sovanderleidk" },
+    { "icon": "fab fa-github", "text": "github.com/sovanderlei", "link": "https://github.com/sovanderlei" },
+    { "icon": "fas fa-globe", "text": "sovanderlei.github.io/vandcurriculum", "link": "https://sovanderlei.github.io/vandcurriculum/" }
+  ],
+  "skills": [
+    { "name": "Java / Spring Boot", "level": 95 },
+    { "name": "Microsserviços / REST", "level": 90 },
+    { "name": "Grails / Groovy", "level": 80 },
+    { "name": "Angular", "level": 80 },
+    { "name": "React", "level": 75 },
+    { "name": "JavaScript / jQuery", "level": 85 },
+    { "name": "C# Asp.net (MVC)", "level": 80 },
+    { "name": "PHP", "level": 75 },
+    { "name": "SQL (Oracle, SQL Server, MySQL)", "level": 90 },
+    { "name": "MuleSoft / FileNet", "level": 70 },
+    { "name": "IA Generativa / RAG", "level": 65 },
+    { "name": "LangChain4j", "level": 60 }
+  ],
+  "education": [
+    {
+      "degree": "Pós-graduação em Engenharia de Software",
+      "school": "FACEC – Faculdade de Ciência e Educação do Caparaó",
+      "period": "2018 – 2019"
+    },
+    {
+      "degree": "Bacharelado em Administração de Empresas",
+      "school": "FACEC – Faculdade de Ciência e Educação do Caparaó",
+      "period": "2014 – 2018"
+    },
+    {
+      "degree": "Inglês como Segundo Idioma",
+      "school": "EF English Live",
+      "period": "2019 – 2020"
+    }
+  ],
+  "certifications": [
+    { "name": "Formação Inteligência Artificial do Zero ao Avançado", "issuer": "", "year": "2026" },
+    { "name": "Inteligência Artificial e Machine Learning: O Guia Completo", "issuer": "", "year": "" }
+  ],
+  "languages": [
+    { "name": "Português", "level": "Nativo" },
+    { "name": "Inglês", "level": "Profissional" }
+  ],
+  "summary": "Profissional (Desenvolvedor e Analista) otimista, que gosta muito de interagir com outras pessoas. Trabalhar em equipe em busca dos melhores resultados e alcançar objetivos diários é o que me traz grande motivação e satisfação. Mais de 20 anos de experiência como Desenvolvedor e Analista em projetos com Java Spring Boot (MVC), Angular, React, JavaScript, jQuery, Bootstrap, PHP e C# Asp.net (MVC), atualmente explorando IA Generativa, RAG e LangChain4j.",
+  "experience": [
+    {
+      "role": "Engenheiro de Desenvolvimento de Software",
+      "company": "TAP Air Portugal",
+      "location": "Lisboa, Portugal",
+      "start": "2022",
+      "end": "",
+      "items": [
+        "Manutenção e melhoria de sistemas legados e projetos web (front-end e back-end).",
+        "Sistema Financeiro – controle de pagamentos.",
+        "Migração de sistema de Java 7 para Java 11 usando Grails e Groovy.",
+        "Desenvolvimento de microsserviços e projeto de importação de dados com MuleSoft.",
+        "FileNet – WorkFlow com Java 6, 7, 8, 11 e 22."
+      ]
+    },
+    {
+      "role": "Engenheiro de Software Java Sênior",
+      "company": "E-Deploy (Burger King e C&A)",
+      "location": "São Paulo, Brasil",
+      "start": "02/2020",
+      "end": "09/2021",
+      "items": [
+        "Desenvolvimento e manutenção de sistemas Java para os clientes Burger King e C&A."
+      ]
+    },
+    {
+      "role": "Analista Desenvolvedor Java Sênior",
+      "company": "Santander Brasil – Sinqia",
+      "location": "São Paulo, Brasil",
+      "start": "08/2019",
+      "end": "01/2020",
+      "items": [
+        "Manutenção de sistemas legados e desenvolvimento de novos projetos.",
+        "Manutenção, melhoria e criação de microsserviços.",
+        "Desenvolvimento de Webservices."
+      ]
+    },
+    {
+      "role": "Engenheiro de Software",
+      "company": "WebSalt",
+      "location": "Serra, ES, Brasil",
+      "start": "03/2019",
+      "end": "08/2019",
+      "items": [
+        "Análise e desenvolvimento de Webservices e microsserviços.",
+        "Dashboard web para controle de metas, vendas e produção (exibido em smart TV).",
+        "Criação de aplicativo e de intranet empresarial.",
+        "Modelagem de banco de dados MySQL, SQL Server e Oracle."
+      ]
+    },
+    {
+      "role": "Analista e Desenvolvedor Sênior",
+      "company": "Viminas Vidros Especiais",
+      "location": "Serra, ES, Brasil",
+      "start": "05/2017",
+      "end": "03/2019",
+      "items": [
+        "ERP – manutenção, novas regras de negócio, relatórios, importadores e Webservices.",
+        "Sistema web de Manutenção Preventiva (ordens de serviço, manutenção e equipes).",
+        "App de controle de acesso (catraca e portão automático) e app para vendedores (metas, vendas, clientes e mapa).",
+        "Sistemas para controle de contratos e atendimentos; intranet empresarial."
+      ]
+    },
+    {
+      "role": "Desenvolvedor de Software Sênior",
+      "company": "Grupo RDG Aços do Brasil",
+      "location": "Serra, ES, Brasil",
+      "start": "07/2015",
+      "end": "05/2017",
+      "items": [
+        "ERP Totvs – manutenção e implementação de novas regras de negócio.",
+        "Controle de frotas – veículos, funcionários, notas fiscais e financeiro.",
+        "Sistema de controle de produção, entrada de materiais, expedição e pesagem de caminhões.",
+        "Webservices de controle de pedágio e pagamento com cartão (Braspag); microterminal."
+      ]
+    },
+    {
+      "role": "Programador e Analista C#, Java, Delphi e PHP",
+      "company": "Viminas Vidros Especiais",
+      "location": "Serra, ES, Brasil",
+      "start": "05/2013",
+      "end": "06/2015",
+      "items": [
+        "ERP – relatórios, regras de negócio, importador e Webservices; integração com ERP Senior.",
+        "Sistema de desenho 2D em Java.",
+        "Migração de versão do projeto Delphi e do banco de dados Firebird para Oracle.",
+        "Gerenciador de Relatórios Dinâmicos em Java: o usuário cria o SQL e o sistema gera os filtros e a exportação."
+      ]
+    },
+    {
+      "role": "Analista e Desenvolvedor Sênior",
+      "company": "Websalto",
+      "location": "Vitória, ES, Brasil",
+      "start": "01/2009",
+      "end": "04/2013",
+      "items": [
+        "Sistema de Controle Sindical (C# Asp.net, MySQL e SQL Server) e Sistema de Controle Escolar (PHP e MySQL).",
+        "WebPages com painel administrativo em PHP e C# Asp.net.",
+        "Importação/exportação de dados dinâmicos (CSV, XML, TXT) e Webservices.",
+        "Software de gestão de lojas, segurança privada (Java), apps Android e Nota Fiscal Eletrônica (ACBr)."
+      ]
+    }
+  ],
+  "achievements": [
+    "Migração de sistemas da TAP Air Portugal de Java 7 para Java 11 com Grails e Groovy.",
+    "Migração de banco de dados Firebird para Oracle em ERP Delphi.",
+    "Criação de um gerenciador de relatórios dinâmicos em Java, onde o próprio usuário cria as consultas SQL."
+  ],
+  "references": []
+}
