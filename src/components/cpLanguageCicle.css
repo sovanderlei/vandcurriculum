@@ -1,0 +1,11 @@
+.left_title {
+    font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif;
+    font-size: 10px;
+    color:white;
+    margin-bottom: 10px;
+    margin-left: 20px;
+  }
+.col_aling{
+    align-items: center;
+    text-align: center; 
+}

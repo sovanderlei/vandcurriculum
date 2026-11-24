@@ -1,0 +1,28 @@
+.left_title {
+  font-family: Helvetica Neue, Arial, Helvetica, Geneva, sans-serif;
+  font-size: 10px;
+  color:white;
+}
+.liLine {
+  height: 25px;
+  padding: 3px;
+}
+.cad-adjusts {
+  padding: 3px; 
+  margin: 5px; 
+  width: 95%;
+}
+.card-body-adjusts {
+  color: black;
+}
+.imgDiv{
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  align-items: center; 
+}
+.imgs{
+  height: 70px;
+  width: 150px;
+  margin: 5px;
+}
